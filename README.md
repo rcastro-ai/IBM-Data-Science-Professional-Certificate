@@ -8,10 +8,15 @@ This repository tracks my transition from foundational data analytics to advance
   - Course 01 - What is Data Science
                 (Completed on 2/26/2026)
   - Course 02 - Tools for Data Science
-                (Under way)
+                (Completed on 2/26/2026)
+  - Course 03 - Data Science Methodology
+                (Completed on 3/3/2026)
+  - Course 04 - Python for Data Science, AI & Development
+                (About to start)  
 
 ### 🛠 Tools & Tech (Expanding...)
-- **Languages:** Python (Primary focus), SQL (PostgreSQL & IBM DB2), R (Foundational)
+- **Languages:** Python (basic), SQL, R (foundational)
 - **Libraries:** Pandas, NumPy, Scikit-learn, SciPy (Coming Soon)
 - **Data Viz:** Matplotlib, Seaborn, Plotly/Dash (Coming Soon)
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
+
