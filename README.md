@@ -4,15 +4,12 @@ This repository tracks my transition from foundational data analytics to advance
 
 ### 📊 Current State
 - **Status:** 🟠 In Progress
-  
-  - Course 01 - What is Data Science
-                (Completed on 2/26/2026)
-  - Course 02 - Tools for Data Science
-                (Completed on 2/26/2026)
-  - Course 03 - Data Science Methodology
-                (Completed on 3/3/2026)
-  - Course 04 - Python for Data Science, AI & Development
-                (About to start)  
+
+### 📊 Learning Path & Portfolio
+- ✅ **Course 01:** What is Data Science (Completed: 2/26/2026)
+- ✅ **Course 02:** Tools for Data Science (Completed: 2/26/2026)
+- ✅ **Course 03:** [Data Science Methodology](link-to-your-spam-repo) (Completed: 3/3/2026)
+- 🟠 **Course 04:** Python for Data Science, AI & Development (Target Start: 3/4/2026)
 
 ### 🛠 Tools & Tech (Expanding...)
 - **Languages:** Python (basic), SQL, R (foundational)
