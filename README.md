@@ -10,10 +10,11 @@ This repository tracks my transition from foundational data analytics to advance
 - ✅ **Course 02:** Tools for Data Science (Completed: 2/28/2026)
 - ✅ **Course 03:** [Data Science Methodology](https://github.com/rcastro-ai/Enterprise-Spam-Detection-Methodology) (Completed: 3/3/2026)
 - ✅ **Course 04:** Python for Data Science, AI & Development (Completed: 3/10/2026)
-- 🟠 **Course 05:** Python Project for Data Science (Target Start: 3/12/2026)
+- ✅ **Course 05:** Python Project for Data Science (Completed: 3/12/2026)
+- 🟠 **Course 06:** Databases and SQL for Data Science with Python (Target Start: 3/13/2026)
 
 ### 🛠 Tools & Tech (Expanding...)
-- **Languages:** Python (basic), SQL, R (foundational)
+- **Languages:** Python (Intermediate / Data Analysis Focus), SQL, R (foundational)
 - **Libraries:** Pandas, NumPy, Scikit-learn, SciPy (Coming Soon)
 - **Data Viz:** Matplotlib, Seaborn, Plotly/Dash (Coming Soon)
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
