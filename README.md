@@ -2,10 +2,14 @@
 
 This repository tracks my transition from foundational data analytics to advanced data science. Having completed the **Google Data Analytics Certificate**, I will be deepening my technical expertise in Python, SQL, and Machine Learning through IBM.
 
+## 🏛️ About Me
+
+Results-driven IT professional with extensive experience managing the full SDLC for client-facing applications. Strategic focus on leveraging data analytics and data science to uncover trends, optimize performance, and drive business value.
+
 ### 📊 Current State
 - **Status:** 🟠 In Progress
 
-### 📊 Learning Path & Portfolio
+### 🎓 Learning Path & Portfolio
 - ✅ **Course 01:** What is Data Science (Completed: 2/26/2026)
 - ✅ **Course 02:** Tools for Data Science (Completed: 2/28/2026)
 - ✅ **Course 03:** [Data Science Methodology](https://github.com/rcastro-ai/Enterprise-Spam-Detection-Methodology) (Completed: 3/3/2026)
