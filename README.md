@@ -8,6 +8,7 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 
 ### 📊 Current State
 - **Status:** 🟠 In Progress
+- **Completion:** 6 of 12 courses completed
 
 ### 🎓 Learning Path & Portfolio
 - ✅ **Course 01:** What is Data Science (Completed: 2/26/2026)
@@ -16,7 +17,12 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 - ✅ **Course 04:** Python for Data Science, AI & Development (Completed: 3/10/2026)
 - ✅ **Course 05:** Python Project for Data Science (Completed: 3/12/2026)
 - ✅ **Course 06:** Databases and SQL for Data Science with Python (Completed: 3/17/2026)
-- 🟠 **Course 07:** Data Analysis with Python (Target Start: 3/18/2026)
+- 🟠 **Course 07:** Data Analysis with Python (Started: 3/18/2026)
+- ⬜ **Course 08:** Data Visualization with Python
+- ⬜ **Course 09:** Machine Learning with Python
+- ⬜ **Course 10:** Applied Data Science Capstone
+- ⬜ **Course 11:** Generative AI: Elevate Your Data Science Career
+- ⬜ **Course 12:** Data Scientist Career Guide and Interview Preparation
 
 ### 🛠 Tools & Tech (Expanding...)
 - **Languages:** Python (Intermediate / Data Analysis Focus), SQL (Advanced Querying), R (foundational)
