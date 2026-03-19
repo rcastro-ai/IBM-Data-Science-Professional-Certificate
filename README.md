@@ -16,7 +16,8 @@ This repository tracks my transition from foundational data analytics to advance
 
 ### 🛠 Tools & Tech (Expanding...)
 - **Languages:** Python (Intermediate / Data Analysis Focus), SQL (Advanced Querying), R (foundational)
-- **Libraries:** Pandas, NumPy, Scikit-learn, SciPy (Coming Soon)
+- **Libraries:** Pandas, NumPy, (Scikit-learn, SciPy coming soon)
+- **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
 - **Data Viz:** Matplotlib, Seaborn, Plotly/Dash (Coming Soon)
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
 
