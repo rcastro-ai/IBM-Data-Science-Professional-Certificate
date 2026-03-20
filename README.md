@@ -17,7 +17,7 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 - ✅ **Course 04:** Python for Data Science, AI & Development (Completed: 3/10/2026)
 - ✅ **Course 05:** Python Project for Data Science (Completed: 3/12/2026)
 - ✅ **Course 06:** Databases and SQL for Data Science with Python (Completed: 3/17/2026)
-- 🟠 **Course 07:** Data Analysis with Python (Started: 3/18/2026)
+- 🟠 **Course 07:** Data Analysis with Python (Started: 3/18/2026 - Modules 1-3 Completed)
 - ⬜ **Course 08:** Data Visualization with Python
 - ⬜ **Course 09:** Machine Learning with Python
 - ⬜ **Course 10:** Applied Data Science Capstone
@@ -28,6 +28,7 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 - **Languages:** Python (Intermediate / Data Analysis Focus), SQL (Advanced Querying), R (foundational)
 - **Libraries:** Pandas, NumPy, (Scikit-learn, SciPy coming soon)
 - **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
+- **Exploratory Data Analysis (EDA):** Statistical Profiling, Pearson Correlation, and P-value Significance Testing
 - **Data Viz:** Matplotlib, Seaborn, Plotly/Dash (Coming Soon)
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
 
