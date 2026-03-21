@@ -7,8 +7,8 @@ This repository tracks my transition from foundational data analytics to advance
 Results-driven IT professional with extensive experience managing the full SDLC for client-facing applications. Strategic focus on leveraging data analytics and data science to uncover trends, optimize performance, and drive business value.
 
 ### 📊 Current State
-- **Status:** 🟠 In Progress
-- **Completion:** 6 of 12 courses completed
+- **Status:** 🟠 In Progress (Target: Q2 2026)
+- **Progress:** ██████------ 50% — 6 / 12 courses completed
 
 ### 🎓 Learning Path & Portfolio
 - ✅ **Course 01:** What is Data Science (Completed: 2/26/2026)
@@ -24,7 +24,7 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 - ⬜ **Course 11:** Generative AI: Elevate Your Data Science Career
 - ⬜ **Course 12:** Data Scientist Career Guide and Interview Preparation
 
-### 🛠 Tools & Tech (Expanding...)
+### 🛠 Tools & Tech
 - **Languages:** Python (Intermediate / Data Analysis Focus), SQL (Advanced Querying), R (foundational)
 - **Libraries:** Pandas, NumPy, (Scikit-learn, SciPy coming soon)
 - **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
