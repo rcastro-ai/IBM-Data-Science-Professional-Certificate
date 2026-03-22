@@ -18,7 +18,7 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 - ✅ **Course 05:** Python Project for Data Science (Completed: 3/12/2026)
 - ✅ **Course 06:** Databases and SQL for Data Science with Python (Completed: 3/17/2026)
 - 🟠 **Course 07:** Data Analysis with Python (Started: 3/18/2026 - Modules 1-4 Completed)
-    - **Project:** [Predictive Modeling for Laptop Prices]()  
+    - **Project:** [Predictive Modeling for Laptop Prices](https://github.com/rcastro-ai/IBM-Data-Science-Professional-Certificate/blob/main/07-Data-Analysis-with-Python/Laptop-Price-Predictive-Modeling.ipynb) — Using SLR/MLR and P-value significance to forecast laptop costs  
 - ⬜ **Course 08:** Data Visualization with Python
 - ⬜ **Course 09:** Machine Learning with Python
 - ⬜ **Course 10:** Applied Data Science Capstone
