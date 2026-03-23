@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate
 
-This repository tracks my transition from foundational data analytics to advanced data science. Having completed the **Google Data Analytics Certificate**, I will be deepening my technical expertise in Python, SQL, and Machine Learning through IBM.
+This repository documents my transition from data analytics to data science, building on the **Google Data Analytics Certificate** program and advancing into Python, SQL, and Machine Learning through IBM.
 
 ## 🏛️ About Me
 
@@ -29,10 +29,10 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 
 ### 🛠 Tools & Tech
 - **Languages:** Python (Intermediate / Data Analysis Focus), SQL (Advanced Querying), R (foundational)
-- **Libraries:** Pandas, NumPy, Scikit-learn (SciPy coming soon)
+- **Libraries:** Pandas, NumPy, scikit-learn (SciPy coming soon)
 - **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
-- **Exploratory Data Analysis (EDA):** Statistical Profiling, Pearson Correlation, and P-value Significance Testing
-- **Model Development & Evaluation:** Linear Regression, Polynomial Regression, Ridge Regression, Cross Validation, Grid Search, MSE, R-squared, 
+- **Exploratory Data Analysis (EDA):** Statistical Profiling, Pearson correlation, and P-value Significance Testing
+- **Model Development & Evaluation:** Linear Regression, Polynomial Regression, Ridge Regression, Cross Validation, Grid Search, MSE, R-squared
 - **Data Viz:** Matplotlib, Seaborn (Plotly/Dash coming soon)
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
 
