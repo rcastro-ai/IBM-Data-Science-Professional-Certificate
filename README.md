@@ -32,7 +32,7 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 - **Libraries:** Pandas, NumPy, Scikit-learn (SciPy coming soon)
 - **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
 - **Exploratory Data Analysis (EDA):** Statistical Profiling, Pearson Correlation, and P-value Significance Testing
-- **Model Development & Evaluation:** Linear Regression, Polynomial Regression, Evaluation Metrics (Mean Squared Error (MSE), R-squared)
+- **Model Development & Evaluation:** Linear Regression, Polynomial Regression, Ridge Regression, Cross Validation, Grid Search, MSE, R-squared, 
 - **Data Viz:** Matplotlib, Seaborn (Plotly/Dash coming soon)
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
 
