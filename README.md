@@ -20,7 +20,7 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 - 🟠 **Course 07:** Data Analysis with Python (Started: 3/18/2026 - Modules 1-4 Completed)
     - **Project:** [Laptop Market Exploratory Data Analysis](https://github.com/rcastro-ai/IBM-Data-Science-Professional-Certificate/blob/main/07-Data-Analysis-with-Python/Laptop-Market-Exploratory-Data-Analysis.ipynb) — Using Pearson Correlation and statistical visualization to identify key laptop pricing drivers
     - **Project:** [Predictive Modeling for Laptop Prices](https://github.com/rcastro-ai/IBM-Data-Science-Professional-Certificate/blob/main/07-Data-Analysis-with-Python/Laptop-Price-Predictive-Modeling.ipynb) — Using SLR/MLR and P-value significance to forecast laptop costs
-    - **Project:** [Model Evaluation and Refinement - Cars Test Case](https://github.com/rcastro-ai/IBM-Data-Science-Professional-Certificate/blob/main/07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Cars-Test-Case.ipynb) — Using cross validation, distribution plots, Ridge Regression, and Grid Search
+    - **Project:** [Model Evaluation and Refinement - Used Cars Pricing](https://github.com/rcastro-ai/IBM-Data-Science-Professional-Certificate/blob/main/07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Cars-Test-Case.ipynb) — Using cross validation, distribution plots, Ridge Regression, and Grid Search
 - ⬜ **Course 08:** Data Visualization with Python
 - ⬜ **Course 09:** Machine Learning with Python
 - ⬜ **Course 10:** Applied Data Science Capstone
