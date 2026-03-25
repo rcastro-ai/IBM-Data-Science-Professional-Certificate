@@ -18,10 +18,11 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 - ✅ **Course 05:** Python Project for Data Science (Completed: 3/12/2026)
 - ✅ **Course 06:** Databases and SQL for Data Science with Python (Completed: 3/17/2026)
 - 🟠 **Course 07:** Data Analysis with Python (Started: 3/18/2026 - Modules 1-5 Completed)
-    - **Project:** [Laptop Market Exploratory Data Analysis](./07-Data-Analysis-with-Python/Laptop-Market-Exploratory-Data-Analysis.ipynb) — Using Pearson Correlation and statistical visualization to identify key laptop pricing drivers
-    - **Project:** [Predictive Modeling for Laptop Prices](./07-Data-Analysis-with-Python/Laptop-Price-Predictive-Modeling.ipynb) — Using SLR/MLR and P-value significance to forecast laptop costs
+    - **Project:** [Laptop Market Exploratory Data Analysis](./07-Data-Analysis-with-Python/Laptop-Market-Exploratory-Data-Analysis.ipynb) — Applying Pearson correlation and statistical visualization to identify key laptop pricing drivers
+    - **Project:** [Predictive Modeling for Laptop Prices](./07-Data-Analysis-with-Python/Laptop-Price-Predictive-Modeling.ipynb) — Using SLR/MLR and p-value significance to forecast laptop costs
     - **Project:** [Model Evaluation and Refinement — Used Cars Pricing](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Cars-Test-Case.ipynb) — Using cross validation, distribution plots, Ridge Regression, and Grid Search
     - **Project:** [Model Evaluation and Refinement — Laptop Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Laptop-Pricing-Model.ipynb) — Using cross validation, R-squared values for polynomials, Ridge Regression, and Grid Search
+    - **Project:** [Model Evaluation and Refinement — Insurance Cost Analysis](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Insurance-Cost-Analysis.ipynb) — Using data wrangling, EDA, model development, and model refinement
 - ⬜ **Course 08:** Data Visualization with Python
 - ⬜ **Course 09:** Machine Learning with Python
 - ⬜ **Course 10:** Applied Data Science Capstone
@@ -32,8 +33,8 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 - **Languages:** `Python` (Intermediate / Data Analysis Focus), `SQL` (Advanced Querying), `R` (foundational)
 - **Libraries:** `Pandas`, `NumPy`, `scikit-learn` (SciPy coming soon)
 - **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
-- **Exploratory Data Analysis (EDA):** Statistical Profiling, `Pearson correlation`, and `P-value` Significance Testing
-- **Model Development & Evaluation:** `Linear Regression`, `Polynomial Regression`, `Ridge Regression`, `Cross Validation`, `Grid Search`, `MSE`, `R-squared`
+- **Exploratory Data Analysis (EDA):** Statistical Profiling, `Pearson correlation`, and `p-value` significance testing
+- **Model Development & Evaluation:** `Linear Regression`, `Polynomial Regression`, `Ridge Regression`, `Cross Validation`, `Grid Search`, `Pipelines`, `MSE`, `R-squared`
 - **Data Viz:** `Matplotlib`, `Seaborn` (Plotly/Dash coming soon)
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
 
