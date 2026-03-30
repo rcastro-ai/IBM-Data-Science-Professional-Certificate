@@ -25,7 +25,7 @@ Results-driven IT professional with extensive experience managing the full SDLC 
     - **Project:** [Model Evaluation and Refinement — Laptop Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Laptop-Pricing-Model.ipynb) — Using cross validation, R-squared values for polynomials, Ridge Regression, and Grid Search
     - **Project:** [Model Evaluation and Refinement — Insurance Cost Analysis](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Insurance-Cost-Analysis.ipynb) — Using data wrangling, EDA, model development, model evaluation, and model refinement
     - **Project:** [Model Evaluation and Refinement — House Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb) — Using data wrangling, EDA, model development, model evaluation, and model refinement
-- 🟠 **Course 08:** Data Visualization with Python (Started: 3/27/2026 — Modules 1-2 Completed)
+- 🟠 **Course 08:** Data Visualization with Python (Started: 3/27/2026 — Modules 1-3 Completed)
 - ⬜ **Course 09:** Machine Learning with Python
 - ⬜ **Course 10:** Applied Data Science Capstone
 - ⬜ **Course 11:** Generative AI: Elevate Your Data Science Career
