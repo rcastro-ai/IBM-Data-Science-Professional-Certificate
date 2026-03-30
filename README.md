@@ -26,6 +26,7 @@ Results-driven IT professional with extensive experience managing the full SDLC 
     - **Project:** [Model Evaluation and Refinement — Insurance Cost Analysis](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Insurance-Cost-Analysis.ipynb) — Using data wrangling, EDA, model development, model evaluation, and model refinement
     - **Project:** [Model Evaluation and Refinement — House Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb) — Using data wrangling, EDA, model development, model evaluation, and model refinement
 - 🟠 **Course 08:** Data Visualization with Python (Started: 3/27/2026 — Modules 1-3 Completed)
+    - **Project:** [Advanced Visualizations — Immigration to Canada Case Study](./08-Data-Visualization-with-Python/C08M3L1-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb) — Using waffle charts and word clouds
 - ⬜ **Course 09:** Machine Learning with Python
 - ⬜ **Course 10:** Applied Data Science Capstone
 - ⬜ **Course 11:** Generative AI: Elevate Your Data Science Career
@@ -33,10 +34,10 @@ Results-driven IT professional with extensive experience managing the full SDLC 
 
 ### 🛠 Tools & Tech
 - **Languages:** `Python` (Intermediate / Data Analysis Focus), `SQL` (Advanced Querying), `R` (foundational)
-- **Libraries:** `Pandas`, `NumPy`, `scikit-learn` (SciPy coming soon)
+- **Libraries:** `Pandas`, `NumPy`, `scikit-learn`,  `SciPy`
 - **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
 - **Exploratory Data Analysis (EDA):** Statistical Profiling, `Pearson correlation`, and `p-value` significance testing
 - **Model Development & Evaluation:** `Linear Regression`, `Polynomial Regression`, `Ridge Regression`, `Cross Validation`, `Grid Search`, `Pipelines`, `MSE`, `R-squared`
-- **Data Viz:** `Matplotlib`, `Seaborn` (Plotly/Dash coming soon)
+- **Data Viz:** `Matplotlib`, `Seaborn`, `Folium` (Plotly/Dash coming soon)
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
 
