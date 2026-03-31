@@ -25,7 +25,7 @@ IT professional with experience managing the full SDLC for client-facing applica
     - **Project:** [Model Evaluation and Refinement — Laptop Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Laptop-Pricing-Model.ipynb) — Applying cross validation, R-squared values for polynomials, Ridge Regression, and Grid Search
     - **Project:** [Model Evaluation and Refinement — Insurance Cost Analysis](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Insurance-Cost-Analysis.ipynb) — Using data wrangling, EDA, model development, model evaluation, and model refinement
     - **Project:** [Model Evaluation and Refinement — House Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb) — Using data wrangling, EDA, model development, model evaluation, and model refinement
-- 🟠 **Course 08:** Data Visualization with Python (Started: 3/27/2026 — Modules 1-3 Completed)
+- 🟠 **Course 08:** Data Visualization with Python (Started: 3/27/2026 — Modules 1-4 Completed)
     - **Project:** [Advanced Visualizations — Immigration to Canada Case Study](./08-Data-Visualization-with-Python/C08M3L1-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb) — Applying waffle charts and word clouds to visualize and identify migration trends to Canada
 - ⬜ **Course 09:** Machine Learning with Python
 - ⬜ **Course 10:** Applied Data Science Capstone
@@ -38,6 +38,6 @@ IT professional with experience managing the full SDLC for client-facing applica
 - **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
 - **Exploratory Data Analysis (EDA):** Statistical Profiling, `Pearson correlation`, and `p-value` significance testing
 - **Model Development & Evaluation:** `Linear Regression`, `Polynomial Regression`, `Ridge Regression`, `Cross Validation`, `Grid Search`, `Pipelines`, `MSE`, `R-squared`
-- **Data Viz:** `Matplotlib`, `Seaborn`, `Folium` (Plotly/Dash coming soon)
+- **Data Viz:** `Matplotlib`, `Seaborn`, `Folium`, `Plotly`, `Dash`
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
 
