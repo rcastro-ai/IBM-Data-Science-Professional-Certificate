@@ -1,4 +1,4 @@
-# IBM Data Science Professional Certificate
+# Data Science Portfolio — IBM Professional Certificate Projects
 
 This repository documents my transition from data analytics to data science, building on the **Google Data Analytics Certificate** program and advancing into Python, SQL, and Machine Learning through IBM.
 
@@ -18,13 +18,13 @@ IT professional with experience managing the full SDLC for client-facing applica
 - ✅ **Course 05:** Python Project for Data Science (Completed: 3/12/2026)
 - ✅ **Course 06:** Databases and SQL for Data Science with Python (Completed: 3/17/2026)
 - ✅ **Course 07:** Data Analysis with Python (Completed: 3/26/2026)
-    - **Project:** [Data Wrangling — Laptop Pricing Model](./07-Data-Analysis-with-Python/Data-Wrangling-Laptop-Pricing-Predictive-Model.ipynb) — Using missing data handling, data standardization & normalization, binning, and indicator variables 
+    - **Project:** [Data Wrangling — Laptop Pricing Model](./07-Data-Analysis-with-Python/Data-Wrangling-Laptop-Pricing-Predictive-Model.ipynb) — Handling missing data, data standardization & normalization, binning, and indicator variables
     - **Project:** [Laptop Market Exploratory Data Analysis](./07-Data-Analysis-with-Python/Laptop-Market-Exploratory-Data-Analysis.ipynb) — Applying Pearson correlation and statistical visualization to identify key drivers of laptop pricing 
     - **Project:** [Predictive Modeling for Laptop Prices](./07-Data-Analysis-with-Python/Laptop-Price-Predictive-Modeling.ipynb) — Building regression models (SLR/MLR) and evaluating statistical significance (p-values) to forecast laptop prices
-    - **Project:** [Model Evaluation and Refinement — Used Cars Pricing](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Cars-Test-Case.ipynb) — Using cross validation, distribution plots, Ridge Regression, and Grid Search
-    - **Project:** [Model Evaluation and Refinement — Laptop Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Laptop-Pricing-Model.ipynb) — Applying cross validation, R-squared values for polynomials, Ridge Regression, and Grid Search
-    - **Project:** [Model Evaluation and Refinement — Insurance Cost Analysis](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Insurance-Cost-Analysis.ipynb) — Using data wrangling, EDA, model development, model evaluation, and model refinement
-    - **Project:** [Model Evaluation and Refinement — House Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb) — Using data wrangling, EDA, model development, model evaluation, and model refinement
+    - **Project:** [Model Evaluation and Refinement — Used Cars Pricing](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Cars-Test-Case.ipynb) — Optimized pricing accuracy through Ridge regression and grid search hyperparameter tuning, validated with cross-validation and distribution analysis
+    - **Project:** [Model Evaluation and Refinement — Laptop Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Laptop-Pricing-Model.ipynb) — Evaluating polynomial models using cross validation, R², Ridge regression, and grid search
+    - **Project:** [Model Evaluation and Refinement — Insurance Cost Analysis](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Insurance-Cost-Analysis.ipynb) — Executed a full data science pipeline -from wrangling and EDA to iterative model development and rigorous evaluation- to optimize insurance cost predictions
+    - **Project:** [Model Evaluation and Refinement — House Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb) — Engineered an end-to-end valuation pipeline -from multivariate EDA to iterative model refinement- to deliver high-accuracy house price predictions
 - 🟠 **Course 08:** Data Visualization with Python (Started: 3/27/2026 — Modules 1-4 Completed)
     - **Project:** [Advanced Visualizations — Immigration to Canada Case Study](./08-Data-Visualization-with-Python/C08M3L1-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb) — Applying waffle charts and word clouds to visualize and identify migration trends to Canada
 - ⬜ **Course 09:** Machine Learning with Python
