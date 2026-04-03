@@ -8,7 +8,7 @@ IT professional with experience managing the full SDLC for client-facing applica
 
 ### 📊 Current State
 - **Status:** 🟠 In Progress (Target: Q2 2026)
-- **Progress:** ███████----- 58% — 7 / 12 courses completed
+- **Progress:** ████████---- 66% — 8 / 12 courses completed
 
 ### 🎓 Learning Path & Portfolio
 - ✅ **Course 01:** What is Data Science (Completed: 2/26/2026)
@@ -22,12 +22,12 @@ IT professional with experience managing the full SDLC for client-facing applica
     - **Project:** [Laptop Market Exploratory Data Analysis](./07-Data-Analysis-with-Python/Laptop-Market-Exploratory-Data-Analysis.ipynb) — Applying Pearson correlation and statistical visualization to identify key drivers of laptop pricing 
     - **Project:** [Predictive Modeling for Laptop Prices](./07-Data-Analysis-with-Python/Laptop-Price-Predictive-Modeling.ipynb) — Building regression models (SLR/MLR) and evaluating statistical significance (p-values) to forecast laptop prices
     - **Project:** [Model Evaluation and Refinement — Used Cars Pricing](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Cars-Test-Case.ipynb) — Optimized pricing accuracy through Ridge regression and grid search hyperparameter tuning, validated with cross-validation and distribution analysis
-    - **Project:** [Model Evaluation and Refinement — Laptop Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Laptop-Pricing-Model.ipynb) — Evaluating polynomial models using cross validation, R², Ridge regression, and grid search
+    - **Project:** [Model Evaluation and Refinement — Laptop Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Laptop-Pricing-Model.ipynb) — Evaluating polynomial models using cross-validation, R², Ridge regression, and grid search
     - **Project:** [Model Evaluation and Refinement — Insurance Cost Analysis](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-Insurance-Cost-Analysis.ipynb) — Executed a full data science pipeline — from wrangling and EDA to iterative model development and rigorous evaluation — to optimize insurance cost predictions
     - **Project:** [Model Evaluation and Refinement — House Pricing Model](./07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb) — Engineered an end-to-end valuation pipeline — from multivariate EDA to iterative model refinement — to deliver high-accuracy house price predictions
-- 🟠 **Course 08:** Data Visualization with Python (Started: 3/27/2026 — Modules 1-4 Completed)
+- ✅ **Course 08:** Data Visualization with Python (Completed: 4/3/2026)
     - **Project:** [Advanced Visualizations — Immigration to Canada Case Study](./08-Data-Visualization-with-Python/Advanced-Visualizations-Canada-Immigration-Case-Study.ipynb) — Applying waffle charts and word clouds to visualize and identify migration trends to Canada
-- ⬜ **Course 09:** Machine Learning with Python
+- 🟠 **Course 09:** Machine Learning with Python (Target Start Date: 4/6/2026)
 - ⬜ **Course 10:** Applied Data Science Capstone
 - ⬜ **Course 11:** Generative AI: Elevate Your Data Science Career
 - ⬜ **Course 12:** Data Scientist Career Guide and Interview Preparation
@@ -37,7 +37,7 @@ IT professional with experience managing the full SDLC for client-facing applica
 - **Libraries:** `Pandas`, `NumPy`, `scikit-learn`, `SciPy`
 - **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
 - **Exploratory Data Analysis (EDA):** Statistical Profiling, `Pearson correlation`, and `p-value` significance testing
-- **Model Development & Evaluation:** `Linear Regression`, `Polynomial Regression`, `Ridge Regression`, `Cross Validation`, `Grid Search`, `Pipelines`, `MSE`, `R-squared`
+- **Model Development & Evaluation:** `Linear Regression`, `Polynomial Regression`, `Ridge Regression`, `Cross-Validation`, `Grid Search`, `Pipelines`, `MSE`, `R-squared`
 - **Data Viz:** `Matplotlib`, `Seaborn`, `Folium`, `Plotly`, `Dash`
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
 
