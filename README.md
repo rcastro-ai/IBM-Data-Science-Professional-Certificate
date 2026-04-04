@@ -28,6 +28,7 @@ IT professional with experience managing the full SDLC for client-facing applica
 - ✅ **Course 08:** Data Visualization with Python (Completed: 4/3/2026)
     - **Project:** [Advanced Visualizations — Immigration to Canada Case Study](./08-Data-Visualization-with-Python/Advanced-Visualizations-Canada-Immigration-Case-Study.ipynb) — Applying waffle charts and word clouds to visualize and identify migration trends to Canada
     - **Project:** [Final Assignment - Part 1 — Automobile Sales](./08-Data-Visualization-with-Python/Automobile-Sales-Part-1.ipynb) — Analyzing the impact of macroeconomic indicators on vehicle sales trends during historical recessionary and non-recessionary periods
+    - **Project:** [Final Assignment - Part 2 — Automobile Sales](./08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py) — Built a full-stack Dash application with Python to visualize 30 years of automotive sales data. Features dynamic callbacks for switching between Recession and Yearly statistics to track market volatility and consumer trends <br> [Recession Dashboard](./08-Data-Visualization-with-Python/images/RecessionDashboardGraphs.png) — [Yearly Dashboard](./08-Data-Visualization-with-Python/images/YearlyDashboardGraphs.png)
 - 🟠 **Course 09:** Machine Learning with Python (Target Start Date: 4/6/2026)
 - ⬜ **Course 10:** Applied Data Science Capstone
 - ⬜ **Course 11:** Generative AI: Elevate Your Data Science Career
