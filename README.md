@@ -17,6 +17,7 @@ IT professional with experience managing the full SDLC for client-facing applica
 - ✅ **Course 04:** Python for Data Science, AI & Development (Completed: 3/10/2026)
 - ✅ **Course 05:** Python Project for Data Science (Completed: 3/12/2026)
 - ✅ **Course 06:** Databases and SQL for Data Science with Python (Completed: 3/17/2026)
+    - **Project:** [Chicago Public Schools Performance](./06-SQL-for-Data-Science/SQL-For-Data-Science-Final-Project.ipynb) — Conducted a SQL analysis on urban datasets to identify correlations between socioeconomic hardship indices and school safety scores
 - ✅ **Course 07:** Data Analysis with Python (Completed: 3/26/2026)
     - **Project:** [Data Wrangling — Laptop Pricing Model](./07-Data-Analysis-with-Python/Data-Wrangling-Laptop-Pricing-Predictive-Model.ipynb) — Handling missing data, data standardization & normalization, binning, and indicator variables
     - **Project:** [Laptop Market Exploratory Data Analysis](./07-Data-Analysis-with-Python/Laptop-Market-Exploratory-Data-Analysis.ipynb) — Applying Pearson correlation and statistical visualization to identify key drivers of laptop pricing 
