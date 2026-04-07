@@ -6,6 +6,15 @@ This repository documents my transition from data analytics to data science, bui
 
 IT professional with experience managing the full SDLC for client-facing applications, now focused on applying data science to analyze real-world datasets, build predictive models, and deliver data-driven insights.
 
+### 🚀 Featured Project: Interactive Automobile Sales Dashboard
+[View Full Dash Application Code](./08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py) <br>
+Built a dynamic dashboard to analyze 30 years of automotive sales data, providing real-time insights into market volatility during recessionary periods.
+
+| Recession Period Analysis | Yearly Trend Analysis |
+| :---: | :---: |
+| ![Recession Dashboard](./08-Data-Visualization-with-Python/images/RecessionDashboardGraphs.png) | ![Yearly Dashboard](./08-Data-Visualization-with-Python/images/YearlyDashboardGraphs.png) |
+| *Visualizing high-impact drops in vehicle sales during GDP contractions* | *Tracking long-term consumer growth and market recovery trends* |
+
 ### 📊 Current State
 - **Status:** 🟠 In Progress (Target: Q2 2026)
 - **Progress:** ████████---- 66% — 8 / 12 courses completed
