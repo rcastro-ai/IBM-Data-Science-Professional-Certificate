@@ -40,6 +40,7 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
     - **Project:** [Final Assignment - Part 1 — Automobile Sales](./08-Data-Visualization-with-Python/Automobile-Sales-Part-1.ipynb) — Analyzing the impact of macroeconomic indicators on vehicle sales trends during historical recessionary and non-recessionary periods
     - **Project:** [Final Assignment - Part 2 — Automobile Sales](./08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py) — Built a full-stack Dash application with Python to visualize 30 years of automotive sales data. Features dynamic callbacks for switching between Recession and Yearly statistics to track market volatility and consumer trends <br> [Recession Dashboard](./08-Data-Visualization-with-Python/images/RecessionDashboardGraphs.png) — [Yearly Dashboard](./08-Data-Visualization-with-Python/images/YearlyDashboardGraphs.png)
 - 🟠 **Course 09:** Machine Learning with Python (Started: 4/6/2026 — Modules 1-2 Completed)
+    - **Project:** [Telecom Customer Classification](./09-Machine-Learning-with-Python/telecom-customer-classification-with-knn.ipynb) — Developed a classification model using K-Nearest Neighbors (KNN) to predict customer service plans and optimized model performance through feature scaling (StandardScaler) and hyperparameter tuning to identify the optimal 'k' value 
 - ⬜ **Course 10:** Applied Data Science Capstone
 - ⬜ **Course 11:** Generative AI: Elevate Your Data Science Career
 - ⬜ **Course 12:** Data Scientist Career Guide and Interview Preparation
@@ -49,7 +50,7 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
 - **Libraries:** `Pandas`, `NumPy`, `scikit-learn`, `SciPy`
 - **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
 - **Exploratory Data Analysis (EDA):** Statistical Profiling, `Pearson correlation`, and `p-value` significance testing
-- **Model Development & Evaluation:** `Linear Regression`, `Polynomial Regression`, `Ridge Regression`, `Cross-Validation`, `Grid Search`, `Pipelines`, `MSE`, `R-squared`
+- **Model Development & Evaluation:** `Linear Regression`, `Polynomial Regression`, `Ridge Regression`, `Cross-Validation`, `Grid Search`, `Pipelines`, `KNN Classification`, `MSE`, `R-squared`
 - **Data Viz:** `Matplotlib`, `Seaborn`, `Folium`, `Plotly`, `Dash`
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
 
