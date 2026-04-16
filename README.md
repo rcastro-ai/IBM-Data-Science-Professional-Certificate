@@ -17,7 +17,7 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
 
 ### 📊 Current State
 - **Status:** 🟠 In Progress (Target: Q2 2026)
-- **Progress:** ████████---- 66% — 8 / 12 courses completed
+- **Progress:** █████████--- 75% — 9 / 12 courses completed
 
 ### 🎓 Learning Path & Portfolio
 - ✅ **Course 01:** What is Data Science (Completed: 2/26/2026)
@@ -39,10 +39,10 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
     - **Project:** [Advanced Visualizations — Immigration to Canada Case Study](./08-Data-Visualization-with-Python/Advanced-Visualizations-Canada-Immigration-Case-Study.ipynb) — Applying waffle charts and word clouds to visualize and identify migration trends to Canada
     - **Project:** [Final Assignment - Part 1 — Automobile Sales](./08-Data-Visualization-with-Python/Automobile-Sales-Part-1.ipynb) — Analyzing the impact of macroeconomic indicators on vehicle sales trends during historical recessionary and non-recessionary periods
     - **Project:** [Final Assignment - Part 2 — Automobile Sales](./08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py) — Built a full-stack Dash application with Python to visualize 30 years of automotive sales data. Features dynamic callbacks for switching between Recession and Yearly statistics to track market volatility and consumer trends <br> [Recession Dashboard](./08-Data-Visualization-with-Python/images/RecessionDashboardGraphs.png) — [Yearly Dashboard](./08-Data-Visualization-with-Python/images/YearlyDashboardGraphs.png)
-- 🟠 **Course 09:** Machine Learning with Python (Started: 4/6/2026 — Modules 1-5 Completed)
+- ✅ **Course 09:** Machine Learning with Python (Completed: 4/16/2026)
     - **Project:** [Risk Obesity Classification](./09-Machine-Learning-with-Python/obesity-risk-with-multi-class-classification.ipynb) — Built a pipeline to evaluate multi-class classification models to classify patients according to their obesity risk
     - **Project:** [Telecom Customer Classification](./09-Machine-Learning-with-Python/telecom-customer-classification-with-knn.ipynb) ([View Technical PDF Report](./09-Machine-Learning-with-Python/reports/telecom-customer-classification-with-knn.pdf)) — Developed a classification model using K-Nearest Neighbors (KNN) to predict customer service plans and optimized model performance through feature scaling (StandardScaler) and hyperparameter tuning to identify the optimal 'k' value 
-- ⬜ **Course 10:** Applied Data Science Capstone
+- 🟠 **Course 10:** Applied Data Science Capstone (Target Start Date: 4/20/2026)
 - ⬜ **Course 11:** Generative AI: Elevate Your Data Science Career
 - ⬜ **Course 12:** Data Scientist Career Guide and Interview Preparation
 
@@ -50,8 +50,10 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
 - **Languages:** `Python` (Intermediate / Data Analysis Focus), `SQL` (Advanced Querying), `R` (foundational)
 - **Libraries:** `Pandas`, `NumPy`, `scikit-learn`, `SciPy`
 - **Data Wrangling:** ETL Pipelines, Missing Value Imputation, Data Normalization & Standardization, Feature Engineering
-- **Exploratory Data Analysis (EDA):** Statistical Profiling, `Pearson correlation`, and `p-value` significance testing
-- **Model Development & Evaluation:** `Linear Regression`, `Polynomial Regression`, `Ridge Regression`, `Cross-Validation`, `Grid Search`, `Pipelines`, `KNN Classification`, `MSE`, `R-squared`
+- **Exploratory Data Analysis (EDA):** Statistical Profiling, `Pearson correlation`, `p-value` significance testing
+- **Supervised Learning:** `Linear/Polynomial/Ridge Regression`, `KNN`, `Decision Trees`, `SVM`, `Logistic Regression`
+- **Unsupervised Learning:** `K-Means Clustering`, `Hierarchical Clustering`, `DBSCAN`, `PCA` (Dimensionality Reduction)
+- **Model Evaluation & Optimization:** `Cross-Validation`, `GridSearchCV`, `Pipelines`, `Confusion Matrix`, `F1-Score`, `R-squared`
 - **Data Viz:** `Matplotlib`, `Seaborn`, `Folium`, `Plotly`, `Dash`
 - **New for 2026:** Generative AI for Data Science & Watsonx.ai
 
