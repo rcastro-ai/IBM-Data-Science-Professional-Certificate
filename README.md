@@ -17,7 +17,7 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
 
 ### 📊 Current State
 - **Status:** 🟠 In Progress (Target: Q2 2026)
-- **Progress:** █████████--- 75% — 9 / 12 courses completed
+- **Progress:** ██████████-- 83% — 10 / 12 courses completed
 
 ### 🎓 Learning Path & Portfolio
 - ✅ **Course 01:** What is Data Science (Completed: 2/26/2026)
@@ -43,8 +43,9 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
     - **Project:** [Risk Obesity Classification](./09-Machine-Learning-with-Python/obesity-risk-with-multi-class-classification.ipynb) — Built a pipeline to evaluate multi-class classification models to classify patients according to their obesity risk
     - **Project:** [Telecom Customer Classification](./09-Machine-Learning-with-Python/telecom-customer-classification-with-knn.ipynb) ([View Technical PDF Report](./09-Machine-Learning-with-Python/reports/telecom-customer-classification-with-knn.pdf)) — Developed a classification model using K-Nearest Neighbors (KNN) to predict customer service plans and optimized model performance through feature scaling (StandardScaler) and hyperparameter tuning to identify the optimal 'k' value
     - **Project:** [Rain Predictor Classifier](./09-Machine-Learning-with-Python/rain-predictor-final-project.ipynb) — Developed a classification system for Melbourne weather data. Performed a comparative study of Random Forest, SVM, and Logistic Regression using Scikit-Learn Pipelines and Stratified K-Fold CV. Optimized for F1-Score to address class imbalance, achieving an Average Precision of 0.73.
-- 🟠 **Course 10:** Applied Data Science Capstone (Modules 1-3 Completed: 4/23/2026)
-- ⬜ **Course 11:** Generative AI: Elevate Your Data Science Career
+- ✅ **Course 10:** Applied Data Science Capstone (Completed: 4/28/2026)
+    - **Project:** [Falcon 9 First-Stage Landing Predictor](./10-Applied-Data-Science-Capstone) — Developed a data pipeline using SpaceX API, SQL, Folium, and Plotly Dash. Achieved 83.3% accuracy across SVM, KNN, and Logistic Regression models.
+- 🟠 **Course 11:** Generative AI: Elevate Your Data Science Career (Planned Start Date: 4/29/2026)
 - ⬜ **Course 12:** Data Scientist Career Guide and Interview Preparation
 
 ### 🛠 Tools & Tech
