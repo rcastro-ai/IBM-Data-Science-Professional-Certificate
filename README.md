@@ -45,7 +45,7 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
     - **Project:** [Rain Predictor Classifier](./09-Machine-Learning-with-Python/rain-predictor-final-project.ipynb) — Developed a classification system for Melbourne weather data. Performed a comparative study of Random Forest, SVM, and Logistic Regression using Scikit-Learn Pipelines and Stratified K-Fold CV. Optimized for F1-Score to address class imbalance, achieving an Average Precision of 0.73.
 - ✅ **Course 10:** Applied Data Science Capstone (Completed: 4/28/2026)
     - **Project:** [Falcon 9 First-Stage Landing Predictor](./10-Applied-Data-Science-Capstone) — Developed a data pipeline using SpaceX API, SQL, Folium, and Plotly Dash. Achieved 83.3% accuracy across SVM, KNN, and Logistic Regression models.
-- 🟠 **Course 11:** Generative AI: Elevate Your Data Science Career (Planned Start Date: 4/29/2026)
+- 🟠 **Course 11:** Generative AI: Elevate Your Data Science Career (Started: 4/29/2026)
 - ⬜ **Course 12:** Data Scientist Career Guide and Interview Preparation
 
 ### 🛠 Tools & Tech
