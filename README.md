@@ -17,7 +17,7 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
 
 ### 📊 Current State
 - **Status:** 🟠 In Progress (Target: Q2 2026)
-- **Progress:** ██████████-- 83% — 10 / 12 courses completed
+- **Progress:** ███████████- 91% — 11 / 12 courses completed
 
 ### 🎓 Learning Path & Portfolio
 - ✅ **Course 01:** What is Data Science (Completed: 2/26/2026)
@@ -45,8 +45,8 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
     - **Project:** [Rain Predictor Classifier](./09-Machine-Learning-with-Python/rain-predictor-final-project.ipynb) — Developed a classification system for Melbourne weather data. Performed a comparative study of Random Forest, SVM, and Logistic Regression using Scikit-Learn Pipelines and Stratified K-Fold CV. Optimized for F1-Score to address class imbalance, achieving an Average Precision of 0.73.
 - ✅ **Course 10:** Applied Data Science Capstone (Completed: 4/28/2026)
     - **Project:** [Falcon 9 First-Stage Landing Predictor](./10-Applied-Data-Science-Capstone) — Developed a data pipeline using SpaceX API, SQL, Folium, and Plotly Dash. Achieved 83.3% accuracy across SVM, KNN, and Logistic Regression models.
-- 🟠 **Course 11:** Generative AI: Elevate Your Data Science Career (Started: 4/29/2026 | Modules 1-2 Completed)
-- ⬜ **Course 12:** Data Scientist Career Guide and Interview Preparation
+- ✅ **Course 11:** Generative AI: Elevate Your Data Science Career (Completed: 5/1/2026)
+- 🟠 **Course 12:** Data Scientist Career Guide and Interview Preparation
 
 ### 🛠 Tools & Tech
 - **Languages:** `Python` (Intermediate / Data Analysis Focus), `SQL` (Advanced Querying), `R` (foundational)
@@ -57,5 +57,4 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
 - **Unsupervised Learning:** `K-Means Clustering`, `Hierarchical Clustering`, `DBSCAN`, `PCA` (Dimensionality Reduction)
 - **Model Evaluation & Optimization:** `Cross-Validation`, `GridSearchCV`, `Pipelines`, `Confusion Matrix`, `F1-Score`, `R-squared`
 - **Data Viz:** `Matplotlib`, `Seaborn`, `Folium`, `Plotly`, `Dash`
-- **New for 2026:** Generative AI for Data Science & Watsonx.ai
-
+- **Generative AI:** `watsonx.ai`
