@@ -1,9 +1,11 @@
 # 🌧️ Rainfall Prediction Model
 
-This project builds a machine learning model to predict whether it will rain the following day using historical weather data.
+A machine learning project that predicts next-day rainfall using historical weather data, achieving an F1-score of **0.76**.
 
-## 🔗 View Notebook
-[Full Analysis Notebook](./rainfall-prediction-model.ipynb)
+## 🔗 Related Notebook
+[View Full Analysis Notebook](./rainfall-prediction-model.ipynb)
+
+---
 
 ## 📌 Objective
 
