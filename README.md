@@ -16,8 +16,7 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
 | *Visualizing high-impact drops in vehicle sales during GDP contractions* | *Tracking long-term consumer growth and market recovery trends* |
 
 ### 📊 Current State
-- **Status:** 🟠 In Progress (Target: Q2 2026)
-- **Progress:** ███████████- 91% — 11 / 12 courses completed
+- **Status:** ✅ Certificate completed on May 8th, 2026
 
 ### 🎓 Learning Path & Portfolio
 - ✅ **Course 01:** What is Data Science (Completed: 2/26/2026)
@@ -46,7 +45,7 @@ Built a dynamic dashboard to analyze 30 years of automotive sales data, providin
 - ✅ **Course 10:** Applied Data Science Capstone (Completed: 4/28/2026)
     - **Project:** [Falcon 9 First-Stage Landing Predictor](./10-Applied-Data-Science-Capstone/falcon9-project) — Developed a data pipeline using SpaceX API, SQL, Folium, and Plotly Dash. Achieved 83.3% accuracy across SVM, KNN, and Logistic Regression models.
 - ✅ **Course 11:** Generative AI: Elevate Your Data Science Career (Completed: 5/1/2026)
-- 🟠 **Course 12:** Data Scientist Career Guide and Interview Preparation (Started on 5/4/2026 - Modules 1-2 Completed)
+- ✅ **Course 12:** Data Scientist Career Guide and Interview Preparation (Completed: 5/8/2026)
 
 ### 🛠 Tools & Tech
 - **Languages:** `Python` (Intermediate / Data Analysis Focus), `SQL` (Advanced Querying), `R` (foundational)
