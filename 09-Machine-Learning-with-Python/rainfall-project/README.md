@@ -1,6 +1,8 @@
 # 🌧️ Rainfall Prediction Model
 
-A machine learning project that predicts next-day rainfall using historical weather data, achieving an F1-score of **0.76**.
+A machine learning project that predicts next-day rainfall using historical weather data, achieving an F1-score of **0.77**.<br>
+
+<img src="images/rainfall-score-table.png">
 
 ## 🔗 Related Notebook
 [View Full Analysis Notebook](./rainfall-prediction-model.ipynb)
@@ -39,13 +41,14 @@ The project follows an end-to-end data science workflow:
         - Logistic Regression
         - Support Vector Machine (SVM)
         - Random Forest
+        - XGBoost
     - Used:
         - Scikit-learn Pipelines
         - Stratified K-Fold Cross-Validation
 
 ## 📈 Results
 * Best model achieved:
-    - F1-score: 0.76
+    - F1-score: 0.77
 * Metric selection focused on F1-score to account for class imbalance in rainfall events
 
 ## 🧠 Key Takeaways
@@ -65,7 +68,6 @@ The project follows an end-to-end data science workflow:
 * rainfall-readme.md                # Project overview
 
 ## 🚀 Future Improvements
-* Implement advanced imputation strategies for missing data
+* Implement advanced imputation strategies by using Iterative Imputation or KNN Imputation to recover valuable data currently lost through row deletion
 * Explore additional feature engineering (lag variables, rolling averages)
 * Evaluate additional models and ensemble techniques
-
