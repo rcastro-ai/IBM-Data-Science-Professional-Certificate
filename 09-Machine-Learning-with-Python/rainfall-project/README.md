@@ -1,8 +1,15 @@
 # 🌧️ Rainfall Prediction Model
 
-A machine learning project that predicts next-day rainfall using historical weather data, achieving an F1-score of **0.77**.<br>
+A machine learning project that predicts next-day rainfall using historical weather data, achieving an overall F1-score of **0.77**.<br>
 
-<img src="images/rainfall-score-table.png">
+## 🎯 Model Performance Comparison
+
+<a href="rainfall-prediction-model.ipynb">
+  <img src="images/rainfall-score-table.png" alt="Model Performance Table" width="60%">
+</a>
+<br>
+
+**Key Insight:** While Random Forest and SVM show slightly higher raw accuracy, **XGBoost** was selected for production due to its superior ability to capture rain events (73% Recall), providing the most actionable insights for stakeholders.
 
 ## 🔗 Related Notebook
 [View Full Analysis Notebook](./rainfall-prediction-model.ipynb)
@@ -65,7 +72,7 @@ The project follows an end-to-end data science workflow:
 
 ## 📁 Repository Structure
 * rainfall-prediction-model.ipynb   # Main notebook with full workflow
-* rainfall-readme.md                # Project overview
+* README.md                         # Project overview
 
 ## 🚀 Future Improvements
 * Implement advanced imputation strategies by using Iterative Imputation or KNN Imputation to recover valuable data currently lost through row deletion
