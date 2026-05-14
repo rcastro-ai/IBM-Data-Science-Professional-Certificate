@@ -1,6 +1,6 @@
 # 🌧️ Rainfall Prediction Model
 
-A machine learning project that predicts next-day rainfall using historical weather data, achieving an overall F1-score of **0.77**.<br>
+A machine learning project that predicts next-day rainfall using historical weather data, achieving a Rain Events F1-score of **0.67**.<br>
 
 ## 🎯 Model Performance Comparison
 
@@ -9,7 +9,7 @@ A machine learning project that predicts next-day rainfall using historical weat
 </a>
 <br>
 
-**Key Insight:** While Random Forest and SVM show slightly higher raw accuracy, **XGBoost** was selected for production due to its superior ability to capture rain events (73% Recall), providing the most actionable insights for stakeholders.
+**Key Insight:** While global metrics like Average Precision are competitive across the two top models, **XGBoost** is the superior choice for stakeholders. By successfully addressing class imbalance through KNN imputation and targeted sampling, it provides a **46%** improvement in Recall for rain events over the Random Forest model (0.52 vs. 0.76), making it the most actionable and dependable tool for rainfall prediction in the Melbourne area.
 
 ## 🔗 Related Notebook
 [View Full Analysis Notebook](./rainfall-prediction-model.ipynb)
@@ -39,11 +39,13 @@ The project follows an end-to-end data science workflow:
     - Feature selection and transformation
 2. Exploratory Data Analysis (EDA)
     - Identified key relationships between weather variables and rainfall
-    - Visualized distributions and correlations
-3. Feature Engineering
+    - Filtered the data for target geographical area.
+3. Data Imputation
+    - Used KNN imputation to address missing data for features sunshine and cloud cover
+4. Feature Engineering
     - Created and refined features to improve model performance
     - Prepared data for machine learning pipelines
-4. Modeling
+5. Modeling
     - Implemented and compared multiple classification models:
         - Logistic Regression
         - Support Vector Machine (SVM)
@@ -55,7 +57,8 @@ The project follows an end-to-end data science workflow:
 
 ## 📈 Results
 * Best model achieved:
-    - F1-score: 0.77
+    - Overall F1-score: 0.76
+    - Rain Event F1-Score: 0.67
 * Metric selection focused on F1-score to account for class imbalance in rainfall events
 
 ## 🧠 Key Takeaways
