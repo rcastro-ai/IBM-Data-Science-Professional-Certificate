@@ -1,6 +1,17 @@
 # 🌧️ Rainfall Prediction Model
 
-A machine learning project that predicts next-day rainfall using historical weather data, achieving a Rain Events F1-score of **0.67**.<br>
+A machine learning project that predicts next-day rainfall using historical weather data. <br>
+
+## 🚀 The Result
+
+By specializing this model for the **Melbourne region** and implementing **KNN Imputation**, this project achieved a **76% Recall rate** for rain events—a **46% improvement** over the Random Forest baseline.
+
+## 🛠️ Key Technical Features
+
+* **Data Rescue:** Used K-Nearest Neighbors (KNN) Imputation (*k=5*) to recover missing climatic variables (Sunshine, Evaporation, Cloud Cover), increasing the usable dataset by **11.7%**.
+* **Localized Precision:** Narrowed scope to the Melbourne sub-region to capture specific coastal weather patterns.
+* **Imbalance Management:** Utilized `scale_pos_weight` in XGBoost to prioritize identifying rain events (minority class) over raw accuracy.
+* **Production-Ready Pipeline:** Integrated all preprocessing, scaling, and imputation into a single Scikit-Learn `Pipeline` to prevent data leakage.
 
 ## 🎯 Model Performance Comparison
 
@@ -8,8 +19,6 @@ A machine learning project that predicts next-day rainfall using historical weat
   <img src="images/rainfall-score-table.png" alt="Model Performance Table" width="60%">
 </a>
 <br>
-
-**Key Insight:** While global metrics like Average Precision are competitive across the two top models, **XGBoost** is the superior choice for stakeholders. By successfully addressing class imbalance through KNN imputation and targeted sampling, it provides a **46%** improvement in Recall for rain events over the Random Forest model (0.52 vs. 0.76), making it the most actionable and dependable tool for rainfall prediction in the Melbourne area.
 
 ## 🔗 Related Notebook
 [View Full Analysis Notebook](./rainfall-prediction-model.ipynb)
@@ -22,6 +31,7 @@ The goal of this project is to develop a classification model that can accuratel
 
 ## 📊 Dataset
 * Source: Melbourne weather dataset (historical observations)
+* Dataset consists of **8,443** observations from the Melbourne region, featuring a significant class imbalance (**~24%** rain events vs. ~76% non-rain events).
 * Features include:
     - Temperature
     - Humidity
@@ -57,9 +67,10 @@ The project follows an end-to-end data science workflow:
 
 ## 📈 Results
 * Best model achieved:
-    - Overall F1-score: 0.76
+    - Overall F1-score: 0.77
     - Rain Event F1-Score: 0.67
-* Metric selection focused on F1-score to account for class imbalance in rainfall events
+    - Recall (Rain Events): 0.76
+* Given the business case in this project, we decided to focus on Recall as it is more important to stakeholders to know if it is going to rain
 
 ## 🧠 Key Takeaways
 * Class imbalance significantly impacts rainfall prediction and requires careful metric selection
@@ -67,17 +78,14 @@ The project follows an end-to-end data science workflow:
 * Cross-validation is essential for reliable model evaluation
 
 ## 🛠️ Technologies Used
-* Python
-* Pandas, NumPy
-* Scikit-learn
-* Matplotlib, Seaborn
-* Jupyter Notebook
+* **Data/ML:** Python, Pandas, NumPy, Scikit-learn, XGBoost
+* **Viz:** Matplotlib, Seaborn
+* **Environment:** Jupyter Notebook
 
 ## 📁 Repository Structure
 * rainfall-prediction-model.ipynb   # Main notebook with full workflow
 * README.md                         # Project overview
 
 ## 🚀 Future Improvements
-* Implement advanced imputation strategies by using Iterative Imputation or KNN Imputation to recover valuable data currently lost through row deletion
 * Explore additional feature engineering (lag variables, rolling averages)
 * Evaluate additional models and ensemble techniques
